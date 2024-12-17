@@ -12,19 +12,14 @@ As part of a team under Los Alamos National Laboratory, I am leading the design 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/images/cryogenic2.png" title="example image 1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/images/cryogenic1.png" title="example image 1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/images/cryogenic3.png" title="example image 2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/images/cryogenic2.jpg" title="example image 2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    On the left is the upscaled prototype fixture, and on the right is the finite element simulation of the vibration system.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/images/cryogenic4.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+    On the left is the cryogenic tank in its current frame, and on the right is current, poor frequency response data from previous measurements.
 </div>
 
 ### Design Process
@@ -32,11 +27,36 @@ The fixture was designed using SOLIDWORKS and was upscaled 10x for prototype tes
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/images/cryogenic5.png" title="example image 3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/images/cryogenic3.png" title="example image 1" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/images/cryogenic4.png" title="example image 2" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    New fixture design, disassembled to be manufactured in 5 pieces (left) and assembled using 1/4 inch computer screws (right). 
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/images/cryogenic5.png" title="example image 1" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/images/cryogenic6.png" title="example image 2" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    New tank frame design, without cryogenic tank (left) and with cryogenic tank (right). 
 </div>
 
 ### Final Results
-The intitial test of the upscaled mechanical fixture design successfully isolates vibrations while maintaining non-destructive testing for TEM samples. Our solution allows for accurate RUS measurements under cryogenic conditions, enabling reliable material property analysis. This fixture design offers a robust and scalable approach for advanced material testing in extreme environments. More work will follow to create a real scale prototype to ensure measurement accuracy. 
+The initial test of the upscaled mechanical fixture design successfully isolates vibrations while maintaining non-destructive testing for TEM samples. Our solution allows for accurate RUS measurements under cryogenic conditions, enabling reliable material property analysis. This fixture design offers a robust and scalable approach for advanced material testing in extreme environments. More work will follow to create a real-scale prototype to ensure measurement accuracy.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/images/cryogenic7.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Clean frequency response data from 10x upscaled prototype, with 95.12% correlation to simulated response.  
+</div>
 {% endraw %}
