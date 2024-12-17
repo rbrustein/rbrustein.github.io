@@ -2,7 +2,7 @@
 layout: page
 title: Safety Accessory for Industrial Vehicles (SAIV)
 description: Collision detection system for heavy machinery such as forklifts.
-img: assets/img/12.jpg
+img: assets/images/saivhome.jpg
 importance: 1
 category: work
 related_publications: false
