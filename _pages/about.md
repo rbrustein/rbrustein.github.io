@@ -15,8 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm Roman. I’m a Mechanical Engineering student at Texas A&M University, graduating in May 2025 with a strong focus on design, process engineering, and thermal analysis. I enjoy tackling challenging engineering problems by combining technical knowledge with practical, hands-on experience.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My background includes work in product development, simulation analysis, and advanced manufacturing techniques, complemented by skills in CAD design, programming, and data-driven analysis. Whether collaborating with industry leaders or leading engineering teams, I’m driven to create innovative and impactful solutions.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+This portfolio showcases my most impactful projects, where creativity, precision, and engineering excellence come together.
