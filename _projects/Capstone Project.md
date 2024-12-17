@@ -2,7 +2,7 @@
 layout: page
 title: Cryogenic Vibration Fixture Design
 description: Mechanical fixture design for cryogenic vibration experiments using RUS to determine material properties.
-img: assets/images/cryogenichome.png
+img: assets/img/cryogenichome.png
 importance: 1
 category: work
 related_publications: false
@@ -12,10 +12,10 @@ As part of a team under Los Alamos National Laboratory, I am leading the design 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/images/cryogenic1.png" title="example image 1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cryogenic1.png" title="example image 1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/images/cryogenic2.jpg" title="example image 2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cryogenic2.jpg" title="example image 2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -27,10 +27,10 @@ The fixture was designed using SOLIDWORKS and was upscaled 10x for prototype tes
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/images/cryogenic3.png" title="example image 1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cryogenic3.png" title="example image 1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/images/cryogenic4.png" title="example image 2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cryogenic4.png" title="example image 2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -38,10 +38,10 @@ The fixture was designed using SOLIDWORKS and was upscaled 10x for prototype tes
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/images/cryogenic5.png" title="example image 1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cryogenic5.png" title="example image 1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/images/cryogenic6.png" title="example image 2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cryogenic6.png" title="example image 2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -53,7 +53,7 @@ The initial test of the upscaled mechanical fixture design successfully isolates
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/images/cryogenic7.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/cryogenic7.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
