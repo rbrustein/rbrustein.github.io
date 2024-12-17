@@ -12,10 +12,10 @@ As a researcher at the Texas A&M University Hypervelocity Impact Laboratory (HVI
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/images/hvil1.jpg" title="HViL Test Setup" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/hvil1.jpg" title="HViL Test Setup" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/images/hvil2.jpg" title="2SLGG in Action" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/hvil2.jpg" title="2SLGG in Action" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -25,10 +25,10 @@ In my research, I helped develop and test high-fidelity computational models tha
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/images/hvil3.jpg" title="Molecular Dynamics Simulations" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/hvil3.jpg" title="Molecular Dynamics Simulations" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/images/hvil4.jpg" title="Simulation Results" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/hvil4.jpg" title="Simulation Results" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -38,10 +38,10 @@ At HVIL, I also contribute to material characterization efforts. We perform deta
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/images/hvil5.jpg" title="Fracture Surface Analysis" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/hvil5.jpg" title="Fracture Surface Analysis" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/images/hvil6.jpg" title="Polymer Testing" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/hvil6.jpg" title="Polymer Testing" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption" style="font-size: 0.8em; text-align: center; margin-top: 10px;">
