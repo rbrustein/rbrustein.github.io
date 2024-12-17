@@ -1,25 +1,14 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Safety Accessory for Industrial Vehicles (SAIV)
+description: Collision detection system for heavy machinery such as forklifts.
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Heavy machinery accidents result in significant financial losses and injuries each year. Our team developed a cost-effective, modernized solution to reduce these risks by integrating SICK’s TiM-P Lidar sensor and IoT technology into forklifts. The SAIV prototype features a Lidar sensor, IMU, and smart algorithm to detect collisions and tipovers in real-time, reducing accidents by up to 45% and saving an estimated $10M annually. Designed with a compact, 3D-printed mounting system, the SAIV can be easily integrated with existing SICK technology, providing an affordable solution to enhance workplace safety.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
