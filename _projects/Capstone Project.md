@@ -1,81 +1,42 @@
 ---
 layout: page
-title: Mechanical Fixture Design for Cryogenic Vibration Experiments
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: Cryogenic Vibration Fixture Design
+description: Mechanical fixture design for cryogenic vibration experiments using RUS to determine material properties.
+img: assets/images/cryogenichome.png
+importance: 1
 category: work
+related_publications: false
 ---
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+### Project Overview
+As part of a team under Los Alamos National Laboratory, I am leading the design of a mechanical fixture for cryogenic vibration experiments. Our goal is to use Resonant Ultrasound Spectroscopy (RUS) to determine the material properties of TEM (Transmission Electron Microscope) samples in a cryogenic control chamber. The fixture isolates and decouples vibrations to ensure non-destructive testing while vibrating tiny samples (stainless steel disks, 2-3mm by 100 microns). This system uses class 2 lasers to maintain accuracy and prevent damage, ensuring a reliable and precise measurement of material properties under extreme conditions.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/images/cryogenic2.png" title="example image 1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/images/cryogenic3.png" title="example image 2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    On the left is the upscaled prototype fixture, and on the right is the finite element simulation of the vibration system.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/images/cryogenic4.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+### Design Process
+The fixture was designed using SOLIDWORKS and was upscaled 10x for prototype testing. We used Frequency Response Functions (FRFs) to test and refine the design, ensuring optimal vibration isolation. After testing several design concepts, we selected a Teflon material for the fixture frame and conducted a material analysis study to determine its performance in cryogenic environments. This iterative process led to a final design that ensures both effective vibration isolation and non-destructive testing of delicate samples. Furthermore, we designed a brand new tank frame made of 80/20 extrusions with aluminum plates and a rubber edge trim around the tank hole. 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/images/cryogenic5.png" title="example image 3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+### Final Results
+The intitial test of the upscaled mechanical fixture design successfully isolates vibrations while maintaining non-destructive testing for TEM samples. Our solution allows for accurate RUS measurements under cryogenic conditions, enabling reliable material property analysis. This fixture design offers a robust and scalable approach for advanced material testing in extreme environments. More work will follow to create a real scale prototype to ensure measurement accuracy. 
 
 {% endraw %}
