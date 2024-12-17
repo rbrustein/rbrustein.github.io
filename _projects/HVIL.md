@@ -2,7 +2,7 @@
 layout: page
 title: Hypervelocity Impact Laboratory (HVIL) Research
 description: Research in high-rate materials characterization and multiscale numerical modeling for hypervelocity impact threats.
-img: assets/img/hvil.jpg
+img: assets/img/hvilhome.jpg
 importance: 1
 category: research
 related_publications: false
