@@ -44,6 +44,9 @@ At HVIL, I also contribute to material characterization efforts. We perform deta
         {% include figure.liquid loading="eager" path="assets/images/hvil6.jpg" title="Polymer Testing" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption" style="font-size: 0.8em; text-align: center; margin-top: 10px;">
+    All image credits are to TAMU HVIL.
+</div>
 
 ### General Material Property Characterization
 
