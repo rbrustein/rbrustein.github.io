@@ -2,7 +2,7 @@
 layout: page
 title: Safety Accessory for Industrial Vehicles (SAIV)
 description: Collision detection system for heavy machinery such as forklifts.
-img: assets/images/saivhome.jpg
+img: assets/images/saivhome.png
 importance: 1
 category: work
 related_publications: false
@@ -12,10 +12,10 @@ Heavy machinery accidents result in significant financial losses and injuries ea
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/images/saiv1.jpg" title="example image 1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/images/saiv1.png" title="example image 1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/images/saiv2.jpg" title="example image 2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/images/saiv2.png" title="example image 2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -23,7 +23,7 @@ Heavy machinery accidents result in significant financial losses and injuries ea
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/5.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -32,7 +32,7 @@ The SAIV system was created by designing a mounting device for the LiDAR sensor,
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/images/saiv3.jpg" title="example image 3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/images/saiv3.png" title="example image 3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
